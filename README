@@ -1,0 +1,7 @@
+This is basically Customer Record Management application.
+The application contains following features:
+1. Home screen with functionality to "Add Customer" or "Search"
+2. "Add Customer" screen have fields Customer name, Email, Phone, Address, City, State, Pincode and Country.
+3. "Search" screen allows search on name or phone or email and has search button and list of customers to be displayed below the above fields (for search results).
+   On right click any of the customer from search results, the user should gets two options "Edit" and "Delete".
+   The edit option allows editing of customer record and delete option deletes the customer record.
